@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @windows99-hue
 - I'm chinese
-- I'm eleven
+- I'm twelve
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning HTML,CSS,JavaScript
 - 📫 How to reach me ? email:3013907412@qq.com
