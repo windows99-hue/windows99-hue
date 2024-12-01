@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @windows99-hue
 - I'm chinese
 - I'm fourteen
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning HTML,CSS,JavaScript
+- 👀 I’m interested in Python and C++
+- 🌱 I’m currently learning HTML,CSS,JavaScript, C#
 - 📫 How to reach me ? email:3013907412@qq.com
 
 <!---
