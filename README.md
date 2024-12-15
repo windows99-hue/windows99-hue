@@ -1,4 +1,3 @@
-![image](https://ipcounter.ihcr.top/?mode=2&mail=3013907412@qq.com&str=Have%20a%20good%20day&qq=3013907412&gh=windows99-hue&lg=Windows99)
 - 👋 Hi, I’m @windows99-hue
 - I'm chinese
 - I'm fourteen
