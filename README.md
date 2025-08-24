@@ -2,7 +2,7 @@
 
 # Personal Intro
 - 👋 Hi, I’m @windows99-hue
-- I'm chinese
+- I'm Chinese
 - I'm fifteen
 - 👀 I’m interested in Python and C++
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C#, Git, sh
