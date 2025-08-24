@@ -2,7 +2,7 @@
 - I'm chinese
 - I'm fifteen
 - 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning HTML,CSS,JavaScript, C#
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C#, Git, sh
 - 📫 How to reach me ? email:3013907412@qq.com
 - I'm also interested in Linux, especially Kali Linux!
 
