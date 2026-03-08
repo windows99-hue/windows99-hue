@@ -6,8 +6,9 @@
 - I'm fifteen
 - 👀 I’m interested in Python and C++
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C#, Git, sh
-- 📫 How to reach me ? email:ninezkh@qq.com
+- I enjoy playing VRChat and I am proficient in Blender and Unity.
 - I'm also interested in Linux, especially Kali Linux!
+- 📫 How to reach me ? email:ninezkh@qq.com
 
 <!---
 windows99-hue/windows99-hue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
