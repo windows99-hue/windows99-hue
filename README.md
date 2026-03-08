@@ -1,5 +1,6 @@
-<img width="3840" height="2160" alt="bg" src="https://github.com/user-attachments/assets/24551d1c-729f-46d7-896e-52ce3763ad79" />
- 
+
+ <img width="3840" height="2160" alt="bg2" src="https://github.com/user-attachments/assets/479d871a-6c98-4753-90bc-50bf832d7fe9" />
+
  # Personal Intro
 - 👋 Hi, I’m @windows99-hue
 - I'm Chinese
