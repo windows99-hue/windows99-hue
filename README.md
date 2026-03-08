@@ -4,7 +4,7 @@
 - I'm fifteen
 - 👀 I’m interested in Python and C++
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C#, Git, sh
-- 📫 How to reach me ? email:3013907412@qq.com
+- 📫 How to reach me ? email:ninezkh@qq.com
 - I'm also interested in Linux, especially Kali Linux!
 
 <!---
