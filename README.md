@@ -4,7 +4,7 @@
  # Personal Intro
 - 👋 Hi, I’m @windows99-hue
 - I'm Chinese
-- I'm fifteen
+- I'm sixteen
 - 👀 I’m interested in Python and C++
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C#, Git, sh
 - I enjoy playing VRChat and I am proficient in Blender and Unity.
