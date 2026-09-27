@@ -38,54 +38,6 @@ I enjoy turning random ideas into actual projects — from Python libraries and 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎀 [DokiBox](https://github.com/windows99-hue/dokibox)
-
-A fan-made Python library for **Doki Doki Literature Club**, recreating various in-game prompt boxes with `PySide6`.
-
-`Python` `PySide6` `Library` `DDLC`
-
----
-
-### 💻 [clc99](https://github.com/windows99-hue/clc99)
-
-A Python library for building stylish command-line interfaces inspired by tools such as **Metasploit**.
-
-A project I first created years ago — and later came back to rebuild.
-
-`Python` `CLI` `Terminal`
-
----
-
-### 🤖 [99wxrobot](https://github.com/windows99-hue/99wxrobot)
-
-An automated **WeChat bot** capable of detecting and replying to messages, with plugin support and integrations for both local and API-based AI models.
-
-`Python` `Automation` `AI` `WeChat`
-
----
-
-### 🎵 [99SoundpadAdder](https://github.com/windows99-hue/99SoundpadAdder)
-
-An automation tool that downloads music from supported platforms and imports it directly into **Soundpad**.
-
-Because sometimes being lazy requires a surprising amount of engineering.
-
-`Python` `Selenium` `Automation` `Soundpad`
-
----
-
-### 📸 [99VRCPhotoCut](https://github.com/windows99-hue/99VRCPhotoCut)
-
-A small Windows utility for automatically removing the white border from **VRChat instant-camera photos**.
-
-Drop in your photos, get clean images out.
-
-`Python` `VRChat` `Image Processing` `Windows`
-
----
-
 ## 🧪 What I'm Exploring
 
 ```text
